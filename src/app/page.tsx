@@ -5,6 +5,7 @@ export default function Home() {
       <p>New content in new branch</p>
       <p>One commit</p>
       <p>Second Commit</p>
+      <p>Third commit</p>
     </main>
   )
 }
