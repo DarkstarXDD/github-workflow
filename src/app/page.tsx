@@ -6,6 +6,7 @@ export default function Home() {
       <p>One commit</p>
       <p>Second Commit</p>
       <p>Third commit</p>
+      <p>Fourth commit</p>
     </main>
   )
 }
